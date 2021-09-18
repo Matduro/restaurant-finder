@@ -12,7 +12,7 @@ Building a Yelp clone using the PERN stack, with the guidance of
   PGUSER="Your PG username"
   PGHOST=localhost
   PGPASSWORD="Your password"
-  PGDATABASE="the name of you db"
+  PGDATABASE="the name of your db"
   PGPORT="Insert your PG port number"
 
 3. Install dependencies in the server folder and in the client folder: `npm i` or `yarn install`
