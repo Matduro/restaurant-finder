@@ -20,3 +20,8 @@ Building a Yelp clone using the PERN stack, with the guidance of
 4. Run the server: `nodemon server.js`
   - Note: nodemon is used, so you should not have to restart your server
 5. Run the client: `yarn start` and visit http://localhost:3000/ if it's not automatically done for you.
+
+## Future development
+
+- Authentication
+- Modern Styling 
