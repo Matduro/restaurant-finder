@@ -25,3 +25,4 @@ Building a Yelp clone using the PERN stack, with the guidance of
 
 - Authentication
 - Modern Styling 
+- Google Map integration
