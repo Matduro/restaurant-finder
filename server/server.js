@@ -48,7 +48,7 @@ app.get("/api/v1/restaurants/:id", async (req, res) => {
     console.log(reviews);
 
     res.status(200).json({
-      status: "succes",
+      status: "success",
       data: {
         restaurant: restaurant.rows[0],
         reviews: reviews.rows,
